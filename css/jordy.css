@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(241, 184, 28);
+}
+
+.primario{
+    background-color: lightseagreen;
+    width: 100px;
+    height: 40px;
+    border-radius: 18px;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+}
+.titulo{
+    color: lightseagreen;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+    border-radius: 60px;
+
+
+
+}
+
+.texto{
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.lima{
+    color: lightseagreen;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+
+
+.secundario{
+    background-color: lavender;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    border: 0px;
+    font-weight: bold;
+}
